@@ -1,2 +1,2 @@
 # OPENGL
-Rep with all the code from the OPENGL class
+Rep with all the code from my OPENGL class
